@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T00:48:31.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="DisYWya59ilhKyJf3pr3" version="22.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-29T01:07:06.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="-dXLYP_2KbmtXiyT8ZRC" version="22.0.0" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="656" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="615" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,11 +101,59 @@
         <mxCell id="gszBq1xayT0m0fYIKKLI-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 206, 159); font-size: 10px;&quot;&gt;Pesquisar&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 206, 159); font-size: 11px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#FFCE9F;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1410" y="350" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gszBq1xayT0m0fYIKKLI-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFCE9F;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="gszBq1xayT0m0fYIKKLI-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFCE9F;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1550" y="352.5" width="20" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="gszBq1xayT0m0fYIKKLI-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#f4a4c0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="388" width="50" height="30" as="geometry" />
+        <mxCell id="gszBq1xayT0m0fYIKKLI-10" value="Itens populares" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#FFCE9F;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders_2;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="427.5" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFD966;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders_2;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="427.5" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders_2;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="430" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-15" value="Compra por classes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#FFCE9F;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-24" value="&lt;font color=&quot;#ffe599&quot;&gt;6º Classe&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="530" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="560" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="590" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-28" value="&lt;font color=&quot;#ffe599&quot;&gt;12º Classe&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="530" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-29" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="590" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-30" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="560" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-32" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;dashed=0;strokeColor=#825B34;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="690" width="215" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-34" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-35" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.messages;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-36" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-37" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="692.25" width="20" height="15.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gszBq1xayT0m0fYIKKLI-38" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;strokeColor=#FFE599;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;fontFamily=Helvetica;fontSize=12;fontColor=#f4a4c0;fillColor=#9E6F3F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="690" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
